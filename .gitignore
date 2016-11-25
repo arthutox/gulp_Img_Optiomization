@@ -1,0 +1,15 @@
+node_modules
+app
+dist
+app/original
+dist
+/.idea/.name
+/.idea/copyright/profiles_settings.xml
+/.idea/encodings.xml
+/.idea/gulp_Img_Optiomization.iml
+/.idea/jsLibraryMappings.xml
+/.idea/libraries/gulp_Img_Optiomization_node_modules.xml
+/.idea/magicento.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/workspace.xml
